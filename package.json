@@ -1,0 +1,15 @@
+{
+  "name": "text-helper-chips",
+  "version": "1.0.0",
+  "description": "html textarea addon to generate texts using ui chips",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "html",
+    "javascript"
+  ],
+  "author": "Sutigit",
+  "license": "MIT"
+}
